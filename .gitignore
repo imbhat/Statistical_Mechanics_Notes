@@ -1,3 +1,4 @@
 *.pdf
 *.djvu
 !stat_mech_notes*
+.stat_mech_notes.autosave.xopp
